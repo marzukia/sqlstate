@@ -16,4 +16,3 @@ state.store(key='dogs', payload=dogs)
 ```python
 dogs = state.get(key='dogs')
 ```
-# sqlstate
